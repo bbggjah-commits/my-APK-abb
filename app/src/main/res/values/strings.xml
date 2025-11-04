@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تذكير شرب الماء</string>
+    <string name="notification_title">حان وقت شرب الماء! 💧</string>
+    <string name="notification_message">لا تنسَ شرب كوب من الماء للحفاظ على صحتك</string>
+    <string name="notification_channel_name">تذكيرات الماء</string>
+    <string name="notification_channel_description">إشعارات لتذكيرك بشرب الماء</string>
+    
+    <string name="main_title">تذكير شرب الماء</string>
+    <string name="main_description">اشرب الماء بانتظام للحفاظ على صحتك</string>
+    <string name="start_reminders">تفعيل التذكيرات</string>
+    <string name="stop_reminders">إيقاف التذكيرات</string>
+    <string name="interval_label">الفترة بين التذكيرات (بالدقائق):</string>
+    <string name="reminders_started">تم تفعيل التذكيرات بنجاح</string>
+    <string name="reminders_stopped">تم إيقاف التذكيرات</string>
+    <string name="interval_hint">60</string>
+    <string name="water_icon_description">أيقونة الماء</string>
+</resources>
